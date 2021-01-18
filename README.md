@@ -1,9 +1,9 @@
 # login
 PHP Login Script Using Sessions 
 
-![1.png](https://www.dropbox.com/s/uo2xzaycgyzdgg8/3.png?dl=0)
+https://www.dropbox.com/s/u38v26upd5kpfc0/login-file-struct.png?dl=0# 
 
-# Features
+Features
 
   - User and admin login with sessions.
   - Register new system users.
