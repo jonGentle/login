@@ -1,7 +1,9 @@
 # login
 PHP Login Script Using Sessions 
 
-![Screenshot](3.png)
+![Screenshot](3.png) :height: 100px
+   :width: 200 px
+   :scale: 50 %
 
 Features
 
