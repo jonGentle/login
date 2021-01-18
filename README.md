@@ -1,7 +1,7 @@
 # login
 PHP Login Script Using Sessions 
 
-![ims.png](https://www.dropbox.com/s/g4u98pl14qmw2u7/ims.png?dl=0&raw=1)
+![1.png](https://www.dropbox.com/s/uo2xzaycgyzdgg8/3.png?dl=0)
 
 # Features
 
@@ -13,7 +13,7 @@ PHP Login Script Using Sessions
 
 
 ### File Structure
-![ims file struct.png](https://www.dropbox.com/s/e54nd2a7400a09v/ims%20file%20struct.png?dl=0&raw=1)
+![login-file-struct.png]://www.dropbox.com/s/u38v26upd5kpfc0/login-file-struct.png?dl=0
 
 Admin Login
 ```sh
