@@ -1,7 +1,7 @@
 # login
 PHP Login Script Using Sessions 
 
-![Screenshot](screenshot.png)
+![Screenshot](3.png)
 
 Features
 
@@ -13,7 +13,8 @@ Features
 
 
 ### File Structure
-![login-file-struct.png](https://www.dropbox.com/s/xx1zx9o3jbu5v1b/login-file-struct.png?dl=0)
+![Screenshot](login-file-struct.png)
+
 
 Admin Login
 ```sh
