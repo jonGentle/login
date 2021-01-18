@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+html,body{
+background-image: url('https://cdn.pixabay.com/photo/2016/11/06/10/51/background-1802690_960_720.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Crimson Text', serif;
+
+}
+
+.container{
+    height: 100%;
+    align-content: center;
+    }
+    
+    .card{
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0,0,0,0.5) !important;
+    }  
+    .card-header h3{
+    color: white;
+    }
+
+    .form{
+        height: 490px;
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 420px;
+        background-color: rgba(0,0,0,0.5) !important;
+        }  
+    
+    .social_icon{
+    position: absolute;
+    right: 20px;
+    top: -45px;
+    }
+    
+    .input-group-prepend span{
+    width: 50px;
+    color: #29c4d8f3;
+    background: transparent;
+    }
+    
+    input:focus{
+    outline: 0 0 0 0  !important;
+    box-shadow: 0 0 0 0 !important;
+    
+    }
+    
+
+    
+    .login_btn{
+    color: #29c4d8f3;
+    background: transparent;
+    outline: #29c4d8f3 solid 3px;
+    outline-width: 2px;
+    width: 100px;
+    }
+    
+    .login_btn:hover{
+        color: white;
+        background: #28c5da5e;
+    }
+
+    .register_btn{
+        color: #29c4d8f3;
+        background: transparent;
+        outline: #29c4d8f3 solid 3px;
+        outline-width: 2px;
+        width: 100px;
+   
+       
+        
+        }
+        
+        .register_btn:hover{
+            color: white;
+            background: #28c5da5e;
+        }
+    
+    .links{
+    color: white;
+    }
+    
+    .links a{
+    margin-left: 4px;
+    color: #29c4d8f3;
+    }
+    .table{
+        color:white;
+        font-size: 15px;
+    }
