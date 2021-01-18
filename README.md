@@ -1,7 +1,7 @@
 # login
 PHP Login Script Using Sessions 
 
-![alt text](https://www.dropbox.com/s/scnctk0nma49cri/3.png)
+![Screenshot](screenshot.png)
 
 Features
 
